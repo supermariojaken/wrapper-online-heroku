@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list version="1.0">
 	<fvm_meta theme_code="" is_biz="0" />
-	<theme id="Community" name="Community Library" cc_theme_id="Community"/>
 	<theme id="custom" name="Comedy World" thumb="" cc_theme_id="custom" />
+	<theme id="Community" name="Community Library" cc_theme_id="Community"/>
 	<theme id="import" name="Imported Assets" thumb="" />
 	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" />
 	<theme id="vietnam" name="Jungle Warfare" thumb="" />
