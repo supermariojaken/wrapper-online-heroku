@@ -1,5 +1,13 @@
-# Wrapper
-Warning. Do NOT git clone this or else npm start gives you errors. Download it instead.
+# Wrapper Heroku
+Host your Wrapper Online in Heroku
 
-# Server
-If you want too edit the server files, then click [here](https://github.com/2Epik4u/Wrapper-Online-Server-Files).
+## Instructions
+1. Sign up to Heroku (if you already have Heroku account, you can skip this)
+2. Sign up to GitHub (if you already have GitHub account, you can skip this)
+3. Fork this repository
+2. In Heroku dashboard, make a app
+3. Add the Node.js buildpack
+3. Connect the app with the forked repository
+4. Deploy the app
+5. Now you have it, you have hosted your own Wrapper Online in Heroku
+6. To visit it, type https://[your Heroku app name].herokuapp.com
