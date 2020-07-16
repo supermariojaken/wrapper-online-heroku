@@ -1,4 +1,4 @@
-# Wrapper Heroku
+![Wrapper Online](pages/img/logo.png)
 Host your Wrapper Online in Heroku
 
 ## Instructions
