@@ -364,6 +364,14 @@
             "arg": "/english/american/30-child-s-boy-voice-justin.html",
             "desc": "Justin (Old)"
         },
+		"salli_old": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "readloud",
+			"arg": "/english/american/2-girl-s-voice-sally.html",
+			"desc": "Salli (Old)"
+		},
         "filiz": {
             "country": "TR",
             "language": "tr",
