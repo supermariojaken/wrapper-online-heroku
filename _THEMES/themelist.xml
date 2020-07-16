@@ -21,7 +21,7 @@
 	<theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" />
 	<theme id="fullenergy" name="Full Energy" thumb=""/>
 	<theme id="akon" name="AKON" />
-	<!-- <theme id="business" name="Business Friendly" thumb="" cc_theme_id="whytfthisthemeexists" enable="N" /> -->
+	<theme id="business" name="Frickness Friendly" thumb="" cc_theme_id="gofrickurself" enable="N" />
 	<theme id="ben10" name="Ben 10" enabled="N" />
 	<theme id="botdf" name="Blood on the Dance Floor (Unused)" cc_theme_id="botdf" />
 	<theme id="bunny" name="It's Happy Bunny" enable="N" />
